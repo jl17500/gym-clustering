@@ -1,0 +1,19 @@
+{
+  "rows": 330,
+  "train": 231,
+  "test": 99,
+  "k": 4,
+  "test_spread_k1": 600.7,
+  "test_spread_k": 150.0,
+  "test_spread_drop": 0.75,
+  "credited_segments": [
+    "Drifters"
+  ],
+  "new_member": {
+    "segment": "Drifters",
+    "gets_credit": true
+  },
+  "baseline_net": -1200.0,
+  "v1_net": 185.0,
+  "monthly_gain": 1385.0
+}

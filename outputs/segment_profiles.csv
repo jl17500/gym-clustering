@@ -1,0 +1,5 @@
+,age,visits_per_month,avg_visit_minutes,classes_per_month,months_member,monthly_extras_spend,members,train_members,under_20,median_spend,net_if_credited,gets_credit
+Drifters,27.3,3.0,40.7,0.9,5.8,9.0,70,46,59,7.5,185.0,True
+Steady Seniors,64.2,12.0,46.5,3.9,57.8,17.4,60,45,37,16.0,-45.0,False
+Gym Regulars,33.2,16.0,64.5,0.9,30.3,24.9,109,79,43,24.0,-445.0,False
+Class Spenders,42.6,9.4,55.1,7.0,24.0,47.3,91,61,1,47.0,-895.0,False
